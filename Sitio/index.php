@@ -8,7 +8,7 @@
 	<title></title>
 </head>
 <body><center>
-	<h1 class="h1">Conocenos</h1>
+	<h1 class="h1">Conocenos 2.0</h1>
 	</center>
 <div class="card-group">
   <div class="card">
