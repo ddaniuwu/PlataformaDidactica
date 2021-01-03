@@ -1,9 +1,11 @@
 # PlataformaDidactica
-#Pencil
-:tw-1f4d5: :fa-desktop: :tw-1f4d5:
+# Pencil
+ 
+ :tw-1f4d5:  :fa-desktop:  :tw-1f4d5:
+
 Este proyecto está hecho con fines educacionales , con el principal objetivo de enseñar a los estudiantes de educación preescolar de manera divertida por medio de juegos didacticos , los cuales permitan desarrollar la habilidad principal de aprender. 
 
-##Juegos:
+## Juegos:
 - Ahorcado
 - Memorama
 - Completar Palabras
@@ -15,5 +17,6 @@ Este proyecto está hecho con fines educacionales , con el principal objetivo de
 3. Html
 4. .Php
 
-[========]
+[ ======== ]
+
 ##No tiene fines legales solo prácticos.
